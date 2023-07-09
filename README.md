@@ -5,13 +5,13 @@
 
 ## 스터디 과정
 - 원본 저장소를 `Fork` 하기
-- Fork 한 위치에서 코드 작성 후, 원본 저장소에 `Pull Request` 전송하기
+- 본인의 파일에 코드 작성 후, 원본 저장소에 `Pull Request` 전송하기
 - 작성된 Pull Request를 `Merge`하기
 
 ## File | Commit | Pull Request 규칙
 ### File
 ```
-이름_사이트_문제번호_문제이름.확장자
+사이트_문제번호_문제이름.확장자
 ```
 ### Commit
 ```
