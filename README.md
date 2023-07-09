@@ -15,7 +15,7 @@
 ```
 ### Commit
 ```
-git commit -m "이름 | 사이트 | 문제번호 | 문제이름"
+git commit -m "사이트 | 문제번호 | 문제이름"
 ```
 ### Pull Request
 ```
