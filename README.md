@@ -13,6 +13,11 @@
 - Week 8 | 08.28-09.03: `그래프 이론`
 
 ## 📌 스터디 과정
+### 원본 저장소의 소유자: KimMinJeong
+- 원본 저장소에 `Forked-minjeong` `브랜치 생성`하기
+- `본인의 파일`에 코드 작성 후, 원본 저장소에 `Pull Request` 열기
+- 작성된 Pull Request를 `Merge`하기
+### 원본 저장소의 비소유자: ParkSooHyun
 - 원본 저장소를 `Fork` 하기
 - `본인의 파일`에 코드 작성 후, 원본 저장소에 `Pull Request` 전송하기
 - 작성된 Pull Request를 `Merge`하기
