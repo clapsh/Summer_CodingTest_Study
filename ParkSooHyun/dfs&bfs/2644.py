@@ -22,4 +22,3 @@ check = [0]*(n+1)
 dfs(fst)
 
 print(check[sec] if check[sec] else -1)
-    
